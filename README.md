@@ -13,8 +13,9 @@
 - *2024.04*: We update Languagecodec and release a more powerful checkpoint.
 - *2022.02*: We release Languagecodec on arxiv.
 
+<!--
 ![result](result.png)
-
+-->
 
 ## Installation
 
